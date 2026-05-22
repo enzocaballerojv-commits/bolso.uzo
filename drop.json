@@ -2,7 +2,7 @@
   "drop_num": "#001",
   "products": {
     "buzo":  { "pedidos": 2, "total": 100 },
-    "tuzo":  { "pedidos": 4, "total": 100 },
-    "auzo":  { "pedidos": 7, "total": 100 }
+    "tuzo":  { "pedidos": 1, "total": 100 },
+    "auzo":  { "pedidos": 1, "total": 100 }
   }
 }
