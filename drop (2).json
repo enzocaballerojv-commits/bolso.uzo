@@ -1,0 +1,10 @@
+{
+  "_comment": "Para cambiar el contador o desbloquear un producto, editá este archivo. enabled=false oculta el producto del contador y bloquea el catálogo.",
+
+  "drop_num": "#001",
+  "products": {
+    "buzo": { "enabled": true,  "pedidos": 2, "total": 100 },
+    "tuzo": { "enabled": true,  "pedidos": 4, "total": 100 },
+    "auzo": { "enabled": false, "pedidos": 0, "total": 100 }
+  }
+}

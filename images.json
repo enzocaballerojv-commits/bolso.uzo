@@ -1,0 +1,18 @@
+{
+  "_comment": "Configuración de imágenes del sitio. Para cambiar, editá este archivo en GitHub y commit. Netlify redeploya solo.",
+
+  "carousel": [
+    { "product": "B.uzo", "src": "photos/b001.jpg" },
+    { "product": "T.uzo", "src": "photos/t001.jpg" },
+    { "product": "B.uzo", "src": "photos/b002.jpg" },
+    { "product": "T.uzo", "src": "photos/t002.jpg" },
+    { "product": "B.uzo", "src": "photos/b003.jpg" },
+    { "product": "T.uzo", "src": "photos/t003.jpg" }
+  ],
+
+  "catalog": {
+    "buzo": "photos/b002.jpg",
+    "tuzo": "photos/t001.jpg",
+    "auzo": null
+  }
+}
