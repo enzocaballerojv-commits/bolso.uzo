@@ -3,10 +3,10 @@
 
   "carousel": [
     { "product": "B.uzo", "src": "photos/b001.webp" },
-    { "product": "T.uzo", "src": "photos/t001.webp" },
     { "product": "B.uzo", "src": "photos/b002.webp" },
-    { "product": "T.uzo", "src": "photos/t002.webp" },
     { "product": "B.uzo", "src": "photos/b003.webp" },
+    { "product": "T.uzo", "src": "photos/t001.webp" },
+    { "product": "T.uzo", "src": "photos/t002.webp" },
     { "product": "T.uzo", "src": "photos/t003.webp" }
   ],
 
